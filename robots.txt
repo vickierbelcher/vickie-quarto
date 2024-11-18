@@ -1,1 +1,1 @@
-Sitemap: https://anandology.github.io/quarto-website-template/sitemap.xml
+Sitemap: https://vickierbelcher.github.io/vickie-quarto/sitemap.xml
