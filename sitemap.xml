@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vickierbelcher.github.io/vickie-quarto/posts/getting-started-with-quarto/index.html</loc>
-    <lastmod>2024-11-18T09:58:02.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vickierbelcher.github.io/vickie-quarto/index.html</loc>
-    <lastmod>2024-11-18T09:58:02.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vickierbelcher.github.io/vickie-quarto/about.html</loc>
-    <lastmod>2024-11-18T09:58:02.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vickierbelcher.github.io/vickie-quarto/Untitled.html</loc>
-    <lastmod>2024-11-18T09:58:02.247Z</lastmod>
+    <loc>https://vickierbelcher.github.io/vickie-quarto/contact.html</loc>
+    <lastmod>2024-11-18T10:03:29.242Z</lastmod>
   </url>
   <url>
     <loc>https://vickierbelcher.github.io/vickie-quarto/posts/hello-world/index.html</loc>
-    <lastmod>2024-11-18T09:58:02.247Z</lastmod>
+    <lastmod>2024-11-18T10:03:29.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vickierbelcher.github.io/vickie-quarto/Untitled.html</loc>
+    <lastmod>2024-11-18T10:03:29.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vickierbelcher.github.io/vickie-quarto/about.html</loc>
+    <lastmod>2024-11-18T10:03:29.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vickierbelcher.github.io/vickie-quarto/index.html</loc>
+    <lastmod>2024-11-18T10:03:29.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vickierbelcher.github.io/vickie-quarto/posts/getting-started-with-quarto/index.html</loc>
+    <lastmod>2024-11-18T10:03:29.242Z</lastmod>
   </url>
 </urlset>

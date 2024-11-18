@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "A sample contact page to get in touch about this website."
+  },
+  {
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "Sample blog post!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A sample website setup using Quarto and published on Github pages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vickie’s Page",
+    "section": "",
+    "text": "This is a sample quarto website listing all the blog posts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, world!\n\n\n\n\n\n\nmaps\n\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nAnand\n\n\n\n\n\n\n\n\n\n\n\n\nVickie’s Quarto Website\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nAnand\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/getting-started-with-quarto/index.html",
     "href": "posts/getting-started-with-quarto/index.html",
     "title": "Vickie’s Quarto Website",
@@ -47,26 +75,5 @@
     "title": "Vickie’s Quarto Website",
     "section": "Share your website!",
     "text": "Share your website!\nYour website is live now! Share it with your friends!\nCheckout Quarto Documentation for more help."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sample Quarto Website",
-    "section": "",
-    "text": "This is a sample quarto website listing all the blog posts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, world!\n\n\n\n\n\n\nmaps\n\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nAnand\n\n\n\n\n\n\n\n\n\n\n\n\nVickie’s Quarto Website\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nAnand\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "A sample website setup using Quarto and published on Github pages."
-  },
-  {
-    "objectID": "posts/hello-world/index.html",
-    "href": "posts/hello-world/index.html",
-    "title": "Hello, world!",
-    "section": "",
-    "text": "Sample blog post!"
   }
 ]
