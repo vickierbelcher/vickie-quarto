@@ -1,14 +1,14 @@
 ---
-title: Getting Started with Quarto website
+title: Vickie's Quarto Website
 date: 2024-11-18
 author: Anand
 categories:
     - Quarto
 ---
 
-This post explains how to setup a website quarto, customizing it and adding new content to it.
+VICKIE TEST. This post explains how to setup a website quarto, customizing it and adding new content to it.
 
-## Setting Up: Fork the template repository
+## Setting Up: Making fork in Vickie's Site
 
 The first step is to fork the [quarto-website-template][1] repository.
 
