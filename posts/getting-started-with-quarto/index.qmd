@@ -1,0 +1,83 @@
+---
+title: Getting Started with Quarto website
+date: 2024-11-18
+author: Anand
+categories:
+    - Quarto
+---
+
+This post explains how to setup a website quarto, customizing it and adding new content to it.
+
+## Setting Up: Fork the template repository
+
+The first step is to fork the [quarto-website-template][1] repository.
+
+* Go to the [repository page][1] and click on the _Fork_ button
+* Select a name for your repository
+* Write a description for your repository
+* Make sure you uncheck the checkbox _Copy the main branch only_
+* And click on _Create Fork_ button
+
+
+![Fork the template repository](fork-repo.png){.border}
+
+
+[1]: https://github.com/anandology/quarto-website-template
+
+After this step, you'll have your own repository with a copy of the template.
+
+The website will be automatically published whenever you push any changes to the repository.
+
+The website will be live at URL `https://<your-github-username>.github.io/<repo-name>`.
+
+## Clone the Repository
+
+Clone the repository to your computer so that you can make changes to it.
+
+If you wish you can skip this step and make changes directly from github.com web interface.
+
+## Customize site title
+
+Edit the `_quarto.yml` file and update the `title` field in the `website` section.
+
+Commit your changes and push them. The website will be live with the new changes in a minute or two.
+
+## Create new pages
+
+Add a new file `hello.qmd` (or whatever name that you would like to use). Add the require content.
+
+```{.md filename="hello.qmd"}
+# Hello
+
+Hello, world!
+```
+
+If you wish to include that page in the top navigation, add that to navbar.
+
+```yaml
+project:
+  type: website
+
+website:
+  title: "Sample Quarto Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - hello.qmd
+      - about.qmd
+```
+
+Commit & push you changes and wait for a minute to see your changes.
+
+## Adding blog posts
+
+The blog posts are in `/posts/` directory. There is one directory for every post and the content of the post is in a file `index.qmd` in the post directory. A directory is used for a post instead of a single qmd file so that all the supplimentary files like images etc. could be grouped along with the post.
+
+The easiest way to add a new post is to duplicate one of the posts (the while directory for a post), rename it to the name that you want and modify the content.
+
+## Share your website!
+
+Your website is live now! Share it with your friends!
+
+Checkout [Quarto Documentation](https://quarto.org/docs/guide/) for more help.

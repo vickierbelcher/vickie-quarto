@@ -1,0 +1,12 @@
+---
+title: Hello, world!
+categories:
+    - maps
+date: 2024-11-17
+author: Anand
+---
+
+![](map.jpg)
+
+Sample blog post!
+

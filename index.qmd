@@ -1,0 +1,12 @@
+---
+title: "Sample Quarto Website"
+
+# The following entry enables the listing of blog posts
+
+listing:
+  contents:
+    - "posts/*/index.qmd"
+  categories: true
+---
+
+This is a sample quarto website listing all the blog posts.
