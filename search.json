@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html",
+    "href": "posts/getting-started-with-quarto/index.html",
+    "title": "Getting Started with Quarto website",
+    "section": "",
+    "text": "This post explains how to setup a website quarto, customizing it and adding new content to it."
+  },
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html#setting-up-fork-the-template-repository",
+    "href": "posts/getting-started-with-quarto/index.html#setting-up-fork-the-template-repository",
+    "title": "Getting Started with Quarto website",
+    "section": "Setting Up: Fork the template repository",
+    "text": "Setting Up: Fork the template repository\nThe first step is to fork the quarto-website-template repository.\n\nGo to the repository page and click on the Fork button\nSelect a name for your repository\nWrite a description for your repository\nMake sure you uncheck the checkbox Copy the main branch only\nAnd click on Create Fork button\n\n\n\n\nFork the template repository\n\n\nAfter this step, you’ll have your own repository with a copy of the template.\nThe website will be automatically published whenever you push any changes to the repository.\nThe website will be live at URL https://&lt;your-github-username&gt;.github.io/&lt;repo-name&gt;."
+  },
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html#clone-the-repository",
+    "href": "posts/getting-started-with-quarto/index.html#clone-the-repository",
+    "title": "Getting Started with Quarto website",
+    "section": "Clone the Repository",
+    "text": "Clone the Repository\nClone the repository to your computer so that you can make changes to it.\nIf you wish you can skip this step and make changes directly from github.com web interface."
+  },
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html#customize-site-title",
+    "href": "posts/getting-started-with-quarto/index.html#customize-site-title",
+    "title": "Getting Started with Quarto website",
+    "section": "Customize site title",
+    "text": "Customize site title\nEdit the _quarto.yml file and update the title field in the website section.\nCommit your changes and push them. The website will be live with the new changes in a minute or two."
+  },
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html#create-new-pages",
+    "href": "posts/getting-started-with-quarto/index.html#create-new-pages",
+    "title": "Getting Started with Quarto website",
+    "section": "Create new pages",
+    "text": "Create new pages\nAdd a new file hello.qmd (or whatever name that you would like to use). Add the require content.\n\n\nhello.qmd\n\n# Hello\n\nHello, world!\n\nIf you wish to include that page in the top navigation, add that to navbar.\nproject:\n  type: website\n\nwebsite:\n  title: \"Sample Quarto Website\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - hello.qmd\n      - about.qmd\nCommit & push you changes and wait for a minute to see your changes."
+  },
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html#adding-blog-posts",
+    "href": "posts/getting-started-with-quarto/index.html#adding-blog-posts",
+    "title": "Getting Started with Quarto website",
+    "section": "Adding blog posts",
+    "text": "Adding blog posts\nThe blog posts are in /posts/ directory. There is one directory for every post and the content of the post is in a file index.qmd in the post directory. A directory is used for a post instead of a single qmd file so that all the supplimentary files like images etc. could be grouped along with the post.\nThe easiest way to add a new post is to duplicate one of the posts (the while directory for a post), rename it to the name that you want and modify the content."
+  },
+  {
+    "objectID": "posts/getting-started-with-quarto/index.html#share-your-website",
+    "href": "posts/getting-started-with-quarto/index.html#share-your-website",
+    "title": "Getting Started with Quarto website",
+    "section": "Share your website!",
+    "text": "Share your website!\nYour website is live now! Share it with your friends!\nCheckout Quarto Documentation for more help."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sample Quarto Website",
+    "section": "",
+    "text": "This is a sample quarto website listing all the blog posts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started with Quarto website\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nAnand\n\n\n\n\n\n\n\n\n\n\n\n\nHello, world!\n\n\n\n\n\n\nmaps\n\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nAnand\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A sample website setup using Quarto and published on Github pages."
+  },
+  {
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "Sample blog post!"
+  }
+]
