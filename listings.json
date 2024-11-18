@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/hello-world/index.html",
+      "/posts/vickie's first blog/index.html",
       "/posts/getting-started-with-quarto/index.html"
     ]
   }

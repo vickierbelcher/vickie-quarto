@@ -14,6 +14,13 @@
     "text": "Sample blog post!"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vickie’s Page",
+    "section": "",
+    "text": "This is a sample quarto website listing all the blog posts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, world!\n\n\n\n\n\n\nmaps\n\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nAnand\n\n\n\n\n\n\n\n\n\n\n\n\nHi from Bengaluru!\n\n\n\n\n\n\nblogging\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nVickie\n\n\n\n\n\n\n\n\n\n\n\n\nVickie’s Quarto Website\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nAnand\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,11 +28,18 @@
     "text": "A sample website setup using Quarto and published on Github pages."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Vickie’s Page",
+    "objectID": "posts/vickie's first blog/index.html",
+    "href": "posts/vickie's first blog/index.html",
+    "title": "Hi from Bengaluru!",
     "section": "",
-    "text": "This is a sample quarto website listing all the blog posts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello, world!\n\n\n\n\n\n\nmaps\n\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nAnand\n\n\n\n\n\n\n\n\n\n\n\n\nVickie’s Quarto Website\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nAnand\n\n\n\n\n\n\nNo matching items"
+    "text": "This blog discusses my time in Bengaluru. I’m learning python and having lots of fun."
+  },
+  {
+    "objectID": "posts/vickie's first blog/index.html#vickies-first-blog",
+    "href": "posts/vickie's first blog/index.html#vickies-first-blog",
+    "title": "Hi from Bengaluru!",
+    "section": "",
+    "text": "This blog discusses my time in Bengaluru. I’m learning python and having lots of fun."
   },
   {
     "objectID": "posts/getting-started-with-quarto/index.html",
