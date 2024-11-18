@@ -1,12 +1,10 @@
 ---
-title: Hello, world!
+title: Hi from Bengaluru!
 categories:
-    - maps
-date: 2024-11-17
-author: Anand
+    - blogging
+date: 2024-11-18
+author: Vickie
 ---
+## Vickie's first blog
 
-![](map.jpg)
-
-Sample blog post!
-
+This blog discusses my time in Bengaluru. I'm learning python and having lots of fun.
