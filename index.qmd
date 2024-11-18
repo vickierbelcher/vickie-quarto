@@ -1,5 +1,5 @@
 ---
-title: "Sample Quarto Website"
+title: "Vickie's Page"
 
 # The following entry enables the listing of blog posts
 
